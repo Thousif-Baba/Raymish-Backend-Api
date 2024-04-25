@@ -1,0 +1,301 @@
+{
+    "events": [
+        {
+            "id": "1",
+            "eventName": "Family Fun Day",
+            "description": "A full day of activities and fun for the whole family.",
+            "website": "https://example.com/familyfunday",
+            "instagramLink": "https://instagram.com/familyfunday",
+            "googleMapsLink": "https://maps.google.com/?q=location1",
+            "locality": "City Park",
+            "city": "Mumbai",
+            "category": "Family"
+        },
+        {
+            "id": "2",
+            "eventName": "Midnight Soccer League",
+            "description": "Join the community for a thrilling night of soccer.",
+            "website": "https://example.com/midnightsoccer",
+            "instagramLink": "https://instagram.com/midnightsoccer",
+            "googleMapsLink": "https://maps.google.com/?q=location2",
+            "locality": "Sports Complex",
+            "city": "Delhi",
+            "category": "Sports"
+        },
+        {
+            "id": "3",
+            "eventName": "Coder’s Workshop",
+            "description": "Learn coding from professionals in a hands-on workshop.",
+            "website": "https://example.com/codersworkshop",
+            "instagramLink": "https://instagram.com/codersworkshop",
+            "googleMapsLink": "https://maps.google.com/?q=location3",
+            "locality": "Tech Park",
+            "city": "Bengaluru",
+            "category": "Workshop"
+        },
+        {
+            "id": "4",
+            "eventName": "Summer Music Fest",
+            "description": "Experience the ultimate summer music festival.",
+            "website": "https://example.com/summermusicfest",
+            "instagramLink": "https://instagram.com/summermusicfest",
+            "googleMapsLink": "https://maps.google.com/?q=location4",
+            "locality": "Riverfront Stage",
+            "city": "Goa",
+            "category": "Music"
+        },
+        {
+            "id": "5",
+            "eventName": "Kids Creative Arts",
+            "description": "A fun-filled day of painting and creative arts for children.",
+            "website": "https://example.com/kidsarts",
+            "instagramLink": "https://instagram.com/kidsarts",
+            "googleMapsLink": "https://maps.google.com/?q=creative+arts+center",
+            "locality": "Art Center",
+            "city": "Jaipur",
+            "category": "Kids"
+        },
+        {
+            "id": "6",
+            "eventName": "Junior Tennis Camp",
+            "description": "A week-long tennis camp for kids aged 6-12 to learn and improve their tennis skills.",
+            "website": "https://example.com/juniortennis",
+            "instagramLink": "https://instagram.com/juniortenniscamp",
+            "googleMapsLink": "https://maps.google.com/?q=tennis+club",
+            "locality": "Sports Club",
+            "city": "Chennai",
+            "category": "Sports"
+        },
+        {
+            "id": "7",
+            "eventName": "Family Movie Night",
+            "description": "Outdoor movie screening perfect for the whole family. Bring your blankets!",
+            "website": "https://example.com/familymovienight",
+            "instagramLink": "https://instagram.com/familymovienight",
+            "googleMapsLink": "https://maps.google.com/?q=outdoor+theater",
+            "locality": "Open Air Theater",
+            "city": "Kolkata",
+            "category": "Family"
+        },
+        {
+            "id": "8",
+            "eventName": "Jazz Under the Stars",
+            "description": "Enjoy a night of jazz music under the starry sky, featuring well-known jazz musicians.",
+            "website": "https://example.com/jazznight",
+            "instagramLink": "https://instagram.com/jazzunderstars",
+            "googleMapsLink": "https://maps.google.com/?q=jazz+club",
+            "locality": "Rooftop Jazz Club",
+            "city": "Hyderabad",
+            "category": "Nightlife"
+        },
+        {
+            "id": "9",
+            "eventName": "Tech Innovators Meetup",
+            "description": "Meet and network with the brightest minds in the tech industry.",
+            "website": "https://example.com/techmeetup",
+            "instagramLink": "https://instagram.com/techinnovators",
+            "googleMapsLink": "https://maps.google.com/?q=tech+hub",
+            "locality": "Tech Hub",
+            "city": "Bengaluru",
+            "category": "Meetups"
+        },
+        {
+            "id": "10",
+            "eventName": "Summer Crafts Fair",
+            "description": "Explore a variety of handmade crafts and unique items at our annual summer fair.",
+            "website": "https://example.com/summercraftsfair",
+            "instagramLink": "https://instagram.com/summercraftsfair",
+            "googleMapsLink": "https://maps.google.com/?q=fairgrounds",
+            "locality": "Fairgrounds",
+            "city": "Jaipur",
+            "category": "Fair"
+        },
+        {
+            "id": "11",
+            "eventName": "Salsa Night",
+            "description": "An evening of salsa dance with professional instructors and live Latin music.",
+            "website": "https://example.com/salsanight",
+            "instagramLink": "https://instagram.com/salsanight",
+            "googleMapsLink": "https://maps.google.com/?q=dance+studio",
+            "locality": "Dance Studio",
+            "city": "Mumbai",
+            "category": "Dance"
+        },
+        {
+            "id": "12",
+            "eventName": "Rock & Roll Live",
+            "description": "Live rock and roll music from the best local bands. Get ready to rock!",
+            "website": "https://example.com/rockandroll",
+            "instagramLink": "https://instagram.com/rocknrolllive",
+            "googleMapsLink": "https://maps.google.com/?q=music+venue",
+            "locality": "Music Venue",
+            "city": "Delhi",
+            "category": "Music"
+        },
+        {
+            "id": "13",
+            "eventName": "Kids Science Expo",
+            "description": "Interactive science exhibits for children to learn and explore various scientific concepts.",
+            "website": "https://example.com/kidsscienceexpo",
+            "instagramLink": "https://instagram.com/kidsscienceexpo",
+            "googleMapsLink": "https://maps.google.com/?q=science+museum",
+            "locality": "Science Museum",
+            "city": "Chennai",
+            "category": "Kids"
+        },
+        {
+            "id": "14",
+            "eventName": "Kids Fantasy Book Fair",
+            "description": "A magical day for kids to explore the world of fantasy books and meet their favorite authors.",
+            "website": "https://example.com/kidsbookfair",
+            "instagramLink": "https://instagram.com/kidsbookfair",
+            "googleMapsLink": "https://maps.google.com/?q=library",
+            "locality": "Library",
+            "city": "Jaipur",
+            "category": "Kids"
+        },
+        {
+            "id": "15",
+            "eventName": "Little Chefs",
+            "description": "A cooking workshop where kids can learn to make simple and fun recipes.",
+            "website": "https://example.com/littlechefs",
+            "instagramLink": "https://instagram.com/littlechefs",
+            "googleMapsLink": "https://maps.google.com/?q=community+center",
+            "locality": "Community Center",
+            "city": "Delhi",
+            "category": "Kids"
+        },
+        {
+            "id": "16",
+            "eventName": "Cartoon Carnival",
+            "description": "A carnival themed around popular children's cartoons with games, shows, and rides.",
+            "website": "https://example.com/cartooncarnival",
+            "instagramLink": "https://instagram.com/cartooncarnival",
+            "googleMapsLink": "https://maps.google.com/?q=carnival+park",
+            "locality": "Carnival Park",
+            "city": "Kolkata",
+            "category": "Kids"
+        },
+        {
+            "id": "17",
+            "eventName": "Superhero Day",
+            "description": "Dress up as your favorite superhero and enjoy activities and contests.",
+            "website": "https://example.com/superheroday",
+            "instagramLink": "https://instagram.com/superheroday",
+            "googleMapsLink": "https://maps.google.com/?q=theme+park",
+            "locality": "Theme Park",
+            "city": "Mumbai",
+            "category": "Kids"
+        },
+        {
+            "id": "18",
+            "eventName": "Marathon Weekend",
+            "description": "A weekend of marathons and races for various age groups and skill levels.",
+            "website": "https://example.com/marathonweekend",
+            "instagramLink": "https://instagram.com/marathonweekend",
+            "googleMapsLink": "https://maps.google.com/?q=sports+complex",
+            "locality": "Sports Complex",
+            "city": "Chennai",
+            "category": "Sports"
+        },
+        {
+            "id": "19",
+            "eventName": "Community Soccer Tournament",
+            "description": "Local teams compete in a friendly soccer tournament. Join to support your neighborhood!",
+            "website": "https://example.com/communitysoccer",
+            "instagramLink": "https://instagram.com/communitysoccer",
+            "googleMapsLink": "https://maps.google.com/?q=soccer+fields",
+            "locality": "Soccer Fields",
+            "city": "Chennai",
+            "category": "Sports"
+        },
+        {
+            "id": "20",
+            "eventName": "Beach Volleyball Open",
+            "description": "A professional beach volleyball tournament open to all. Come and watch or participate!",
+            "website": "https://example.com/beachvolleyball",
+            "instagramLink": "https://instagram.com/beachvolleyball",
+            "googleMapsLink": "https://maps.google.com/?q=beach",
+            "locality": "Beach",
+            "city": "Goa",
+            "category": "Sports"
+        },
+        {
+            "id": "21",
+            "eventName": "Extreme Sports Expo",
+            "description": "Explore the world of extreme sports with live demonstrations and interactive booths.",
+            "website": "https://example.com/extremesportsexpo",
+            "instagramLink": "https://instagram.com/extremesportsexpo",
+            "googleMapsLink": "https://maps.google.com/?q=expo+center",
+            "locality": "Expo Center",
+            "city": "Delhi",
+            "category": "Sports"
+        },
+        {
+            "id": "22",
+            "eventName": "Annual Cycling Rally",
+            "description": "Join cyclists from around the region in this scenic rally through the countryside.",
+            "website": "https://example.com/cyclingrally",
+            "instagramLink": "https://instagram.com/cyclingrally",
+            "googleMapsLink": "https://maps.google.com/?q=rural+roads",
+            "locality": "Rural Roads",
+            "city": "Goa",
+            "category": "Sports"
+        },
+        {
+            "id": "23",
+            "eventName": "Family Camping Adventure",
+            "description": "A guided family camping experience in the national park with lots of activities.",
+            "website": "https://example.com/familycamping",
+            "instagramLink": "https://instagram.com/familycamping",
+            "googleMapsLink": "https://maps.google.com/?q=national+park",
+            "locality": "National Park",
+            "city": "Himachal Pradesh",
+            "category": "Family"
+        },
+        {
+            "id": "24",
+            "eventName": "Parent-Child Cookoff",
+            "description": "Teams of parents and children compete to see who can create the best dishes.",
+            "website": "https://example.com/parentchildcookoff",
+            "instagramLink": "https://instagram.com/parentchildcookoff",
+            "googleMapsLink": "https://maps.google.com/?q=culinary+school",
+            "locality": "Culinary School",
+            "city": "Mumbai",
+            "category": "Family"
+        },
+        {
+            "id": "25",
+            "eventName": "Historic Town Tour",
+            "description": "Explore the history of our town with this family-friendly guided tour.",
+            "website": "https://example.com/historictowntour",
+            "instagramLink": "https://instagram.com/historictowntour",
+            "googleMapsLink": "https://maps.google.com/?q=historic+town",
+            "locality": "Historic Town",
+            "city": "Jaipur",
+            "category": "Family"
+        },
+        {
+            "id": "26",
+            "eventName": "Family Tech Fair",
+            "description": "Discover the latest in technology at our family-oriented tech fair. Fun and education for all ages!",
+            "website": "https://example.com/familytechfair",
+            "instagramLink": "https://instagram.com/familytechfair",
+            "googleMapsLink": "https://maps.google.com/?q=tech+fair",
+            "locality": "Tech Fair",
+            "city": "Bengaluru",
+            "category": "Family"
+        },
+        {
+            "id": "27",
+            "eventName": "Family Bike Day",
+            "description": "Enjoy a day of cycling with the family on specially designed safe routes.",
+            "website": "https://example.com/familybikeday",
+            "instagramLink": "https://instagram.com/familybikeday",
+            "googleMapsLink": "https://maps.google.com/?q=park+trails",
+            "locality": "Park Trails",
+            "city": "Goa",
+            "category": "Family"
+        }
+    ]
+}
